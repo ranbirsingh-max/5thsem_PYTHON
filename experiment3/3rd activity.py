@@ -1,10 +1,10 @@
-Experiment3: Consider the string “Welcome to Python
+'''Experiment3: Consider the string “Welcome to Python
 World”. Perform the following operations:
 • Count the number of alphabets in the given string.
 • To extract characters in the given, range from the
 givens string.
 • Check if the string is alphanumeric or not.
-CODE:
+CODE:'''
 str="Welcome to Python World"
 print('Original String:',str)
 while(1):
