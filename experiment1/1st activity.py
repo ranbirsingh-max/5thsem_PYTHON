@@ -1,8 +1,8 @@
-#Experiment1: Program to demonstrate type checking of
+'''Experiment1: Program to demonstrate type checking of
 various data types and demonstrate the use of following built
 in functions in python: abs(), len(), min(), round(), isalnum(),
 type().
-CODE:
+CODE:'''
 a=5
 print("Type of a:",type(a))
 b=5.0
