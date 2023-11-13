@@ -1,6 +1,6 @@
-Experiment2: Program to illustrate iteration over the list
+'''Experiment2: Program to illustrate iteration over the list
 and dictionary.
-CODE:
+CODE:'''
 list1=[10,10.5,'Apple',34,47]
 length=len(list1)
 while(1):
