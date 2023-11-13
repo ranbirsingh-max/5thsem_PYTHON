@@ -1,6 +1,6 @@
-Experiment4: Write a program to perform searching
+'''Experiment4: Write a program to perform searching
 activity using Linear and Binary search.
-CODE:
+CODE:'''
 mylist = [1,3,6,8,10,15]
 def linearsearch(mylist,x):
  for i in range(len(mylist)):
