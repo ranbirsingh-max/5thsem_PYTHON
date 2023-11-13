@@ -1,6 +1,6 @@
-Experiment6: Write a program to create a list of student’s
+'''Experiment6: Write a program to create a list of student’s
 records and search a student record using a dictionary.
-CODE:
+CODE:'''
 class Student:
  def GetStudent(self):
  self.rollno=input("Enter roll number:")
