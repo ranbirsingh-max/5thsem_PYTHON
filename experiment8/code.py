@@ -1,6 +1,6 @@
 # Date = 19/10/20203
 # WAP to convert temperature to and from Clesiuc to Fahrenheit
-'''
+
 while True:
     print("\tMenu")
     print("1. To convert from Clesius to Fahrenheit")
@@ -18,7 +18,6 @@ while True:
         break
     else:
         print("Invalid choice. Try again")
-'''
             #OR
 
 def clesius_to_fahrenheit(clesius):
